@@ -4,7 +4,7 @@ dev:
 	rm -f loewenherz_lab03.out
 
 dev_nfl:
-	gcc -o loewenherz_lab03_nfl.out loewenherz_lab03_nfl.c
+	gcc -o loewenherz_lab03_nfl.out loewenherz_lab03_nfl.cpp
 	./loewenherz_lab03_nfl.out
 	rm -f loewenherz_lab03_nfl.out
 	
